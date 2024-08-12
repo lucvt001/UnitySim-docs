@@ -36,7 +36,7 @@ As Unity and ROS communicate over TCP-IP, the simulation can be run on a separat
 
 ### - [Tutorial 0: Installation](docs/installation.md)
 ### - [Tutorial 1: Overview of Unity scene, available sensors and ROS](docs/sensors.md)
-### - [Tutorial 2: Interacting with the simulation - vehicle control and actuators](docs/control.md)
+### - [Tutorial 2: Interacting with the simulation - vehicle control and actuators](docs/actuators.md)
 
 ## Future work
 
